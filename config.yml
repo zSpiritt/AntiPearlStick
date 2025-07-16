@@ -1,4 +1,4 @@
-# SUPPORT : {PLAYER} {REMAINING} {DURATION}à
+# SUPPORT : {PLAYER} {REMAINING} {DURATION}
 item: minecraft:stick
 cooldown: 120
 cooldown-message: "§cVous êtes encore en cooldown pendant {REMAINING} secondes"
