@@ -1,0 +1,8 @@
+# SUPPORT : {PLAYER} {REMAINING} {DURATION}à
+item: minecraft:stick
+cooldown: 120
+cooldown-message: "§cVous êtes encore en cooldown pendant {REMAINING} secondes"
+duration: 15
+duration-message: "§cVous êtes encore anti-pearl pendant {DURATION} secondes"
+antipearl-message-entity: "§cVous êtes désormais anti pearl pendant {DURATION} secondes"
+antipearl-message-damager: "§aVous avez anti pearl {PLAYER} avec succès"
